@@ -14,7 +14,7 @@ import java.net.Socket;
 
 /**
  *
- * @author alejandro
+ * @author pedro argibay
  */
 public class PSPServidorCalculadora {
 
